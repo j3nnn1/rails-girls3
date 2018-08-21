@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# rails-girls3
+rails girls windows rails installer 3.4
